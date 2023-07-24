@@ -1,0 +1,3 @@
+.content__list:not(:first-child) {
+  margin-bottom: 30px;
+}

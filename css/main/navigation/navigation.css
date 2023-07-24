@@ -1,0 +1,9 @@
+.navigation__item {
+  color: #02535f;
+  text-decoration: underline;
+}
+
+.navigation__list {
+  padding: 0;
+  list-style-position: inside;
+}

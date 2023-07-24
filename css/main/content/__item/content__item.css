@@ -1,0 +1,11 @@
+.content__item {
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 120%;
+  margin-bottom: 10px;
+}
+
+.content__item:last-child {
+  margin: 0;
+}

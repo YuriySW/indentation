@@ -1,0 +1,9 @@
+.section__block {
+  display: inline-block;
+  vertical-align: top;
+  max-width: 485px;
+}
+
+.section__block-sub {
+  margin-right: 30px;
+}

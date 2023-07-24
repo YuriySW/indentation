@@ -1,0 +1,9 @@
+.main__img-block {
+  display: inline-block;
+  margin-right: 30px;
+  margin-bottom: 30px;
+}
+
+.main__img-block:last-child {
+  margin: 0;
+}

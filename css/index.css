@@ -1,0 +1,14 @@
+@import 'style.css';
+@import 'normalize.css';
+@import 'main/content/content.css';
+@import 'main/__title/main__title.css';
+@import 'main/__text/main__text.css';
+@import 'main/navigation/navigation.css';
+@import 'main/content/__title/content__title.css';
+@import 'main/content/__item/content__item.css';
+@import 'main/section/__title/section__title.css';
+@import 'main/section/__img/main__img.css';
+@import 'main/section/__block/section__block.css';
+@import 'main/section/__img/main__img-block.css';
+@import 'main/section/__img-sign/main__img-sign.css';
+@import 'main/content/__list/content__list.css';

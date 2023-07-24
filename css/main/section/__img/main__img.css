@@ -1,0 +1,9 @@
+.main__img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.main__img:not(:last-child) {
+  margin-bottom: 30px;
+}
