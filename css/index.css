@@ -10,5 +10,6 @@
 @import 'main/section/__img/main__img.css';
 @import 'main/section/__block/section__block.css';
 @import 'main/section/__img/main__img-block.css';
-@import 'main/section/__img-sign/main__img-sign.css';
 @import 'main/content/__list/content__list.css';
+@import 'main/section/sign/sign.css';
+@import 'main/section/sign/sign__img.css';
